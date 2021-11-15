@@ -255,10 +255,10 @@
 }
 
 .icon-btn{
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: white;
     margin-left: 0.7rem;
-    padding: 0.6rem;
+    padding: 0.5rem;
     background: var(--primary-gradient-color);
     border-radius: 50%;
     border: 2px solid var(--primary-gradient-color); 
@@ -360,7 +360,7 @@
     }
 
     .icon-btn{
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     
 }

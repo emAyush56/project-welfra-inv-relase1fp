@@ -49,7 +49,6 @@ a{
     min-height: 80vh;
     overflow: hidden;
     background: var(--gradient-dark);
-    
     border-radius: 0 0 100px 0;
 }
 
